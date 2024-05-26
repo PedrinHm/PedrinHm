@@ -22,7 +22,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## 🌟 Projeto em Andamento
-- **Meme Generator com IA:** Um projeto que combina humor com tecnologia, permitindo aos usuários criar memes personalizados usando IA. [Veja mais](https://github.com/PedrinHm/meme_generator_redes_neurais)
+- **Meme Generator com IA:** Um projeto que combina humor com tecnologia, permitindo aos usuários criar memes personalizados usando IA.
+- [Veja mais(frontend)](https://github.com/PedrinHm/meme_generator_frontend)
+- [Veja mais(backend)](https://github.com/PedrinHm/meme_generator_backend)
 
 ## 📫 Como me encontrar
 - **LinkedIn:** [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-919b51181/)
