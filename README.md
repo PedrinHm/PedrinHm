@@ -4,7 +4,6 @@
 - 🎓 Estudante de Engenharia de Software na UniRV.
 - 💼 Atualmente, trabalho como Analista de Suporte, na Aliare.
 - 💡 Fascinado por Inteligência Artificial e como ela pode ser aplicada para melhorar nosso dia a dia.
-- 🕹️ Além de codificar, adoro jogos e sou um entusiasta de eSports.
 - 🎨 Interesse em design de interfaces e experiência do usuário.
   
 ## 🔧 Linguagens e Ferramentas
