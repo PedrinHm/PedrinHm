@@ -28,6 +28,3 @@
 ## 📫 Como me encontrar
 - **LinkedIn:** [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-919b51181/)
 - **Email:** pedrohm441@gmail.com
-
-## ⭐ Apoie Meu Trabalho
-Se você achar algum dos meus projetos interessante ou útil, não hesite em dar uma estrela! 🌟
