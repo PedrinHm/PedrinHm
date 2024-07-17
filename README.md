@@ -21,7 +21,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## 🌟 Projeto em Andamento
-- - [Buzz](https://github.com/PedrinHm/buzz_backend) - Backend para gestão de carteirinhas de transporte universitário, facilitando a comunicação entre alunos e motoristas.
+- - [Buzz - Backend](https://github.com/PedrinHm/buzz_backend) - Backend para gestão de carteirinhas de transporte universitário, facilitando a comunicação entre alunos e motoristas.
+- - [Buzz - Frontend](https://github.com/PedrinHm/buzz_frontend) - Frontend para gestão de carteirinhas de transporte universitário, facilitando a comunicação entre alunos e motoristas.
+
 
 ## 📫 Como me encontrar
 - **LinkedIn:** [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-919b51181/)
