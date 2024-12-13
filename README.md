@@ -1,7 +1,7 @@
 # Olá, eu sou Pedro! 👋
 
 ## 🌱 Sobre Mim
-- 🎓 Estudante de Engenharia de Software na UniRV.
+- 🎓 Engenheiro de Software formado pela UniRV.
 - 💼 Atualmente, trabalho como Analista de Suporte, na Aliare.
 - 💡 Fascinado por Inteligência Artificial e como ela pode ser aplicada para melhorar nosso dia a dia.
 - 🎨 Interesse em design de interfaces e experiência do usuário.
@@ -19,11 +19,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-## 🌟 Projeto em Andamento
-- - [Buzz - Backend](https://github.com/PedrinHm/buzz_backend) - Backend para gestão de carteirinhas de transporte universitário, facilitando a comunicação entre alunos e motoristas.
-- - [Buzz - Frontend](https://github.com/PedrinHm/buzz_frontend) - Frontend para gestão de carteirinhas de transporte universitário, facilitando a comunicação entre alunos e motoristas.
-
 
 ## 📫 Como me encontrar
 - **LinkedIn:** [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-919b51181/)
