@@ -3,7 +3,7 @@
 ## 🌱 Sobre Mim
 - 🎓 Engenheiro de Software formado pela UniRV.
 - 👨‍🎓 Cursando uma Pós-Graduação em Ciência de Dados e Machine Learning.
-- 💼 Trabalho como Analista de Suporte na Aliare.
+- 💼 Trabalho como Analista de Banco de Dados na Aliare.
 - 💡 Fascinado por Inteligência Artificial e como ela pode ser aplicada para melhorar nosso dia a dia.
 - 🔬 Aspirante à carreira acadêmica.
 - 🎨 Interesse em design de interfaces e experiência do usuário.
